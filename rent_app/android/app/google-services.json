@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892596511518",
+    "project_id": "rentapp-a34dc",
+    "storage_bucket": "rentapp-a34dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892596511518:android:1602b8e9eddd8e0952df0f",
+        "android_client_info": {
+          "package_name": "com.alientechnologies.RentApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRaO4-mySDdZLkrPCRVkfuOydCD8zdPDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892596511518:android:d61163574ffa425f52df0f",
+        "android_client_info": {
+          "package_name": "com.example.rent_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRaO4-mySDdZLkrPCRVkfuOydCD8zdPDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
